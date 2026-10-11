@@ -1,5 +1,5 @@
 # Unity 2D Slot Machine Game
-[Play the Live WebGL Demo Here!](https://roshanamancha17.github.io/Slot-Game-Assignment/Builds/WebGL/index.html)
+
 
 ## 🎮 Game Overview
 This is a fully functional, UI-driven 2D slot machine built in Unity (Universal 2D). It demonstrates clean UI hierarchy management, programmatic animation, and structured C# logic. Players can manage a virtual balance, place custom bets, and spin the reels to match symbols for payouts.
@@ -32,4 +32,4 @@ The codebase was designed with strict Object-Oriented Programming principles to 
    * *Note: Depending on your browser's security settings regarding local file execution, you may need to host the folder on a local server (e.g., using VS Code's Live Server extension or Python's `http.server`) to run the game properly.*
 
 ## 👨‍💻 About the Developer
-Developed by **Roshan Amancha**. Drawing on professional studio experience from my time at BlackHole Infiverse, I prioritize clean OOP architecture, scalable core mechanics, and highly polished UI/UX integration in all my game development projects.
+Developed by **Rahul Shetye**. Drawing on professional studio experience from my time at BlackHole Infiverse, I prioritize clean OOP architecture, scalable core mechanics, and highly polished UI/UX integration in all my game development projects.
